@@ -52,7 +52,7 @@ class thisTest {
 
 
 
-this访问构造器的时候只需要--->**this(参数列表)**即可     只能在构造器中使用
+this访问构造器的时候只需要---> **this(参数列表)** 即可     只能在构造器中使用
 
 ```java
 class thisTest {
