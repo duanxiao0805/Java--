@@ -24,7 +24,7 @@ class thisTest {
 
 ```
 
-![this1](D:\Java学习\Java\this\this1.PNG)
+![image](https://user-images.githubusercontent.com/62934005/127859145-299119f4-95eb-4fba-8897-c2a3f2a4e80f.png)
 
 啊...并不会啊
 
